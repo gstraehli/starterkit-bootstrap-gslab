@@ -1,0 +1,22 @@
+{
+  "name": "socle-bootstrap",
+  "version": "1.0.0",
+  "description": "Bootstrap Starterkit by GSlab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GSlab",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap-sass": "^3.4.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-cssbeautify": "^1.0.1",
+    "gulp-inject": "^5.0.2",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
