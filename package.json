@@ -9,7 +9,7 @@
   "author": "GSlab",
   "license": "ISC",
   "devDependencies": {
-    "bootstrap-sass": "^3.4.0",
+    "bootstrap-sass": "^3.4.1",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^6.0.0",
     "gulp-cssbeautify": "^1.0.1",
